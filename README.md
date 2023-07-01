@@ -1,5 +1,7 @@
 # Switch-bulb-using-java
 This is also a simple application where the user can turn on the lights in the room by clicking on the button which says turn on the light. This application can teach you how to handle click events on different buttons and show images conditionally. This can be a good project to learn to work with images, and mouse click events
+![r5b68](https://github.com/mudra912/Switch-bulb-using-java/assets/108135019/8cc1ccab-d5d7-488c-9fda-b6e32e57d240)
+
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
